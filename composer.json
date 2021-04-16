@@ -1,5 +1,5 @@
 {
-    "name": "php-amqplib/php-amqplib",
+    "name": "php-amqplib3.0/php-amqplib",
     "replace": {
         "videlalvaro/php-amqplib": "self.version"
     },
